@@ -11,10 +11,17 @@ O sistema que será desenvolvido destina-se a qualquer estudante interessado em 
 
 ---
 
+## Projeto 
+
+[descrição da API que será utilizada e para qual fim]
+
+https://docs.enem.dev/introduction
+
+
+
 ## Mapa de empatía
 
 ### Aluno 
-[Anexar Imagens]
 
 **Nome:** Aluno - Lucas
 
@@ -22,7 +29,7 @@ O sistema que será desenvolvido destina-se a qualquer estudante interessado em 
 
 #### ***O que sente?***
 
-Quais são seus medos, frustrações e ansiedades? Quais são suas vontades e necessidades?
+_Quais são seus medos, frustrações e ansiedades? Quais são suas vontades e necessidades?_
 
 - Necessidade de passar no vestibular
 - Ansiedade
@@ -31,21 +38,21 @@ Quais são seus medos, frustrações e ansiedades? Quais são suas vontades e ne
 
 #### ***O que ouve?***
 
-O que ele escuta de amigos, colegas, familiares e outras pessoas com quem se relaciona?
+_O que ele escuta de amigos, colegas, familiares e outras pessoas com quem se relaciona?_
 
 - Não tem capacidade de pagar cursinhos (Pais)
 - _"Faculdade não é para você"_
 
 #### ***O que ele faz e fala?***
 
-Como ele se comporta? O que o imaginamos fazendo? O que já o ouvimos dizer?
+_Como ele se comporta? O que o imaginamos fazendo? O que já o ouvimos dizer?_
 
 - Buscar meios de estudos focados
 - Tenta estudar de forma não objetiva
 
 #### ***O que ele vê?***
 
-O que ele vê no seu meio profissional? O que ele vê no seu ambiente? O que ele lê ou assiste?
+_O que ele vê no seu meio profissional? O que ele vê no seu ambiente? O que ele lê ou assiste?_
 
 - Materiais possivelmente desatualizados
 - Material muito abrangente (sem foco)
@@ -64,4 +71,49 @@ O que ele vê no seu meio profissional? O que ele vê no seu ambiente? O que ele
 - Passar no vestibular/Enem.
 - Facilidade de acesso.
 - Praticidade na hora do estudo.
+
+---
+
+### Professor 
+
+**Nome:** Professor - Paulo
+
+**Idade:** 30
+
+#### ***O que sente?***
+
+_Quais são seus medos, frustrações e ansiedades? Quais são suas vontades e necessidades?_
+
+- Sobrecarga de trabalho
+- Não consegue ajudar muitos alunos
+
+#### ***O que ouve?***
+
+_O que ele escuta de amigos, colegas, familiares e outras pessoas com quem se relaciona?_
+
+- Alunos com dificuldade
+
+#### ***O que ele faz e fala?***
+
+_Como ele se comporta? O que o imaginamos fazendo? O que já o ouvimos dizer?_
+
+- Direciona os alunos em sala de aula
+- Elabora provas
+
+#### ***O que ele vê?***
+
+_O que ele vê no seu meio profissional? O que ele vê no seu ambiente? O que ele lê ou assiste?_
+
+- Sucateamento da educação
+
+#### ***Dores:***
+
+- Não consegue atender a um grande número de alunos
+- Não encontrar plataformas gratuitas
+- Dificuldade de montar material
+
+#### ***Necessidades:***
+
+- Facilidade de organização e coleta de material
+- Visualização das dificuldades e evolução dos alunos
 
