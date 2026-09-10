@@ -1,0 +1,298 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Qc4FSQ64gCipm4wAq3J6">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=left;verticalAlign=top;fontSize=15;spacingLeft=11;spacingTop=6;" value="Features" vertex="1">
+          <mxGeometry height="670" width="800" x="-2430" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=left;verticalAlign=top;fontSize=15;spacingLeft=11;spacingTop=6;" value="Personas" vertex="1">
+          <mxGeometry height="605" width="492" x="-2122" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=left;verticalAlign=top;fontSize=15;spacingLeft=11;spacingTop=6;" value="Expectations" vertex="1">
+          <mxGeometry height="605" width="154" x="-2276" y="155.88" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="116" width="800" x="-2430" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;b&gt;Professor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="-1954" y="453.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Aluno&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="-1960" y="261.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Fazer simulado" vertex="1">
+          <mxGeometry height="50" width="140" x="-2110" y="251.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Planejar estudo" vertex="1">
+          <mxGeometry height="50" width="140" x="-2110" y="196.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Enviar dúvidas" vertex="1">
+          <mxGeometry height="50" width="140" x="-2110" y="306.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Obter respostas para dúvidas" vertex="1">
+          <mxGeometry height="50" width="140" x="-1860" y="306.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Acompanhar sua evolução" vertex="1">
+          <mxGeometry height="50" width="140" x="-1860" y="251.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Saber o que e quando estudar" vertex="1">
+          <mxGeometry height="50" width="140" x="-1860" y="196.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Direcionar alunos" vertex="1">
+          <mxGeometry height="50" width="140" x="-2103" y="391.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Elaborar provas" vertex="1">
+          <mxGeometry height="50" width="140" x="-2103" y="445.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Obter feedback de alunos" vertex="1">
+          <mxGeometry height="50" width="140" x="-1867" y="412.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Facilidade de montar provas" vertex="1">
+          <mxGeometry height="50" width="140" x="-1867" y="470.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Corrigir questões" vertex="1">
+          <mxGeometry height="50" width="140" x="-2103" y="500.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Organizar estudos" vertex="1">
+          <mxGeometry height="50" width="120" x="-2266" y="205.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Passar no vestibular" vertex="1">
+          <mxGeometry height="50" width="120" x="-2266" y="265.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Ter facilidade de acesso" vertex="1">
+          <mxGeometry height="50" width="120" x="-2266" y="328.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Obter feedback&amp;nbsp; para melhorias" vertex="1">
+          <mxGeometry height="50" width="120" x="-2266" y="391.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Facilidade para fazer simulados" vertex="1">
+          <mxGeometry height="50" width="120" x="-2266" y="453.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Facilidade para coleta de material" vertex="1">
+          <mxGeometry height="60" width="120" x="-2266" y="514.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=15;" value="Resolver dúvidas" vertex="1">
+          <mxGeometry height="50" width="120" x="-2266" y="583.76" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Seleciona tópicos" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2416" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=13;" value="&lt;div&gt;Planejar&amp;nbsp;&lt;/div&gt;&lt;div&gt;estudo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="80" x="-2271" y="867.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Gerenciar questões por matéria" vertex="1">
+          <mxGeometry height="50" width="140" x="-2185" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Selecionar últimas provas" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2416" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Melhor direcionamento para o que estudar" vertex="1">
+          <mxGeometry height="50" width="140" x="-2185" y="870.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Levantar erros e acertos anteriores" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2416" y="897.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Levantar anotações" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2416" y="943.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Obter feedback pessoal" vertex="1">
+          <mxGeometry height="50" width="140" x="-2185" y="933.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=13;" value="Fazer simulado" vertex="1">
+          <mxGeometry height="50" width="90" x="-1877" y="866.22" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Montar simulado por tópico" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2022" y="800.47" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Selecionar simulado disponível" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2022" y="850.47" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Responder perguntas" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2022" y="902.72" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Finalizar simulado" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-2022" y="951.3399999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Fazer simulado direcionado" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1782" y="804.9100000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Obter feedback de acertos e erros" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1782" y="854.9100000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Obter feedback de tempo" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1782" y="907.1600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Levantar dúvidas" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1782" y="955.78" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=13;" value="Enviar dúvidas" vertex="1">
+          <mxGeometry height="50" width="90" x="-2278.5" y="1044.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Enviar dúvida em tópicos" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-2380.5" y="1027" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Enviar dúvida de questão" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-2380.5" y="1081.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Sanar dúvidas" vertex="1">
+          <mxGeometry height="37.25" width="80" x="-2182.5" y="1052.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=13;" value="Direcionar alunos" vertex="1">
+          <mxGeometry height="50" width="97" x="-1879" y="1053.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Analisar desempenho de alunos" vertex="1">
+          <mxGeometry height="50" width="117.5" x="-2002" y="1027" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Sugestão de estudo" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-1777" y="1060.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=13;" value="Elaborar provas" vertex="1">
+          <mxGeometry height="50" width="90" x="-2277" y="1213.31" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontSize=13;" value="Corrigir questões" vertex="1">
+          <mxGeometry height="50" width="97" x="-1881.5" y="1213.44" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Selecionar tópicos" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-2380" y="1157" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Selecionar questões" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-2380" y="1204.81" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Atribuir tempo médio prova" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-2380" y="1253.4299999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Enviar simulado" vertex="1">
+          <mxGeometry height="37.25" width="97" x="-2380" y="1301.81" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Obter um simulado customizado" vertex="1">
+          <mxGeometry height="50" width="97" x="-2181" y="1213.31" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Comentar pergunta de prova" vertex="1">
+          <mxGeometry height="50" width="97" x="-1989.5" y="1182.19" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Analisar desempenho de aluno em simulado" vertex="1">
+          <mxGeometry height="50" width="117.5" x="-2004" y="1086" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Inserir resolução de questão" vertex="1">
+          <mxGeometry height="50" width="97" x="-1989.5" y="1244.43" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Esclarecer resposta para o aluno" vertex="1">
+          <mxGeometry height="50" width="97" x="-1771.5" y="1182.19" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#70A667);strokeColor=#82b366;fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);" value="Compartilhar resolução com alunos" vertex="1">
+          <mxGeometry height="50" width="97" x="-1771.5" y="1244.43" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=34;fontStyle=1" value="&lt;div align=&quot;left&quot;&gt;PRODUCT BACKLOG BUILDING&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="589.25" x="-2410" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);fontSize=23;" value="Product Name: Questibular" vertex="1">
+          <mxGeometry height="30" width="337" x="-2410" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=left;verticalAlign=top;fontSize=14;" value="&lt;div align=&quot;left&quot; style=&quot;padding-top: 10px; padding-right: 0px; padding-left: 10px;&quot;&gt;Problems&lt;/div&gt;" vertex="1">
+          <mxGeometry height="605" width="154" x="-2430" y="155.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Material não estruturado" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="202.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Identificar pontos fracos" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="549.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Falta de tempo para organização" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="269.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Falta de direcionamento nos estudos" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="338.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Falta de estudo prático" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="620.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Dificuldade em atender muitos alunos" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="409.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Dificuldade para montar provas" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="690.76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy4cs__MuipsAs_NLFfx-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=15;" value="Falta de plataformas gratuitas" vertex="1">
+          <mxGeometry height="60" width="120" x="-2416" y="479.76" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=2;align=left;verticalAlign=top;fontSize=15;spacingLeft=11;spacingTop=6;" value="Backlog" vertex="1">
+          <mxGeometry height="1390" width="170" x="-1630" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Realizar Cadastro" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Acessar área restrita" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Buscar questões por tópico" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Buscar simulados" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="243.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Visualizar histórico" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="291.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Visualizar pontuação" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="338.14" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Fazer anotação em questão" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Fazer simulado de um tópico" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="465.14" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Fazer um simulado real" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1617" y="513.14" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Resolver questão" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1617" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Finalizar simulado" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="608.76" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Gerar relatório" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1615" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Criar anotação de dúvida" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="707.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Criar dúvida em um tópico" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="842.16" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Anexar dúvida à uma questão" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="888.91" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Obter uma lista de alunos" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Obter relatório de alunos" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="1006.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Visualizar resposta de alunos em um simulado" vertex="1">
+          <mxGeometry height="43" width="140" x="-1617" y="1053.21" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Obter tópicos" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Selecionar tópicos e questões" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="1186.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Criar um simulado" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="1234" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Visualizar comentários em questão" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Anexar resolução em questão" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1618" y="1366.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_9_B0Pb-dpmg4n8PXNXc-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#D5E8D4,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontStyle=1;fontSize=12;fontColor=light-dark(#000000,#333333);strokeWidth=3;" value="Visualizar resoluções" vertex="1">
+          <mxGeometry height="37.25" width="140" x="-1616" y="757.76" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
