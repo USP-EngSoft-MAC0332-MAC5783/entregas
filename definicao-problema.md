@@ -9,111 +9,15 @@ Nesse contexto, os alunos carecem de um plano de estudos estruturado e personali
 
 O sistema que será desenvolvido destina-se a qualquer estudante interessado em participar do exame ou que apenas deseje avaliar seus saberes, ou seja, além da faixa etária do ensino médio, estará aberto ao público em geral. Em termos geográficos, o público encontra-se disseminado em todo território nacional, portanto serão utilizadas tecnologais que sejam amplamente disponíveis tanto em grandes centros urbanos como em regiões interioranas. Trata-se de um contingente que pode apresentar defasagens acumuladas em diversos assuntos, devido à precarização do ensino público em várias regiões. No âmbito comportamental e logístico, muitas vezes esses alunos se caracterizam pela conciliação entre os estudos e atividades laborais ou afazeres domésticos, o que lhes impõe uma disponibilidade horária reduzida e fragmentada para a preparação específica para o exame. 
 
----
 
 ## Projeto 
 
-[descrição da API que será utilizada e para qual fim]
+O projeto será denominado Questibular e terá como finalidade oferecer ao aluno apoio à sua preparação para o exame do ENEM, disponibilizando simulados, questões direcionadas, correções e anotações. O sistema será desenvolvido utilizando a linguagem de programação **Java** **Spring Boot** para o backend e **Vue.js** para o frontend.
 
-https://docs.enem.dev/introduction
+Os dados das provas serão coletados do projeto ***enem-api*** acessível em https://docs.enem.dev/introduction (Setembro de 2026).
 
 
+_"Este é um projeto criado pela comunidade open-source brasileira, que visa disponibilizar uma API para consulta de provas e questões do ENEM. Todos os dados são públicos e podem ser utilizados sem a necessidade de atribuição de créditos, respeitando a licença GNU GPL-2.0."_
 
-## Mapa de empatía
 
-### Aluno 
-
-**Nome:** Aluno - Lucas
-
-**Idade:** 17
-
-#### ***O que sente?***
-
-_Quais são seus medos, frustrações e ansiedades? Quais são suas vontades e necessidades?_
-
-- Necessidade de passar no vestibular
-- Ansiedade
-- Exclusão
-- Preocupação com custo de estudo/preparação para os vestibulares
-
-#### ***O que ouve?***
-
-_O que ele escuta de amigos, colegas, familiares e outras pessoas com quem se relaciona?_
-
-- Não tem capacidade de pagar cursinhos (Pais)
-- _"Faculdade não é para você"_
-
-#### ***O que ele faz e fala?***
-
-_Como ele se comporta? O que o imaginamos fazendo? O que já o ouvimos dizer?_
-
-- Buscar meios de estudos focados
-- Tenta estudar de forma não objetiva
-
-#### ***O que ele vê?***
-
-_O que ele vê no seu meio profissional? O que ele vê no seu ambiente? O que ele lê ou assiste?_
-
-- Materiais possivelmente desatualizados
-- Material muito abrangente (sem foco)
-
-#### ***Dores:***
-
-- Falta de material de qualidade acessível.
-- Plano de estudos estruturado.
-- Não saber seus pontos fracos e fortes.
-- Não ver resultados em métodos tradicionais majoritariamente teóricos (leituras densas).
-- Falta de tempo para organização (Trabalho e estudos).
-
-#### ***Necessidades:***
-
-- Organizar os estudos.
-- Passar no vestibular/Enem.
-- Facilidade de acesso.
-- Praticidade na hora do estudo.
-
----
-
-### Professor 
-
-**Nome:** Professor - Paulo
-
-**Idade:** 30
-
-#### ***O que sente?***
-
-_Quais são seus medos, frustrações e ansiedades? Quais são suas vontades e necessidades?_
-
-- Sobrecarga de trabalho
-- Não consegue ajudar muitos alunos
-
-#### ***O que ouve?***
-
-_O que ele escuta de amigos, colegas, familiares e outras pessoas com quem se relaciona?_
-
-- Alunos com dificuldade
-
-#### ***O que ele faz e fala?***
-
-_Como ele se comporta? O que o imaginamos fazendo? O que já o ouvimos dizer?_
-
-- Direciona os alunos em sala de aula
-- Elabora provas
-
-#### ***O que ele vê?***
-
-_O que ele vê no seu meio profissional? O que ele vê no seu ambiente? O que ele lê ou assiste?_
-
-- Sucateamento da educação
-
-#### ***Dores:***
-
-- Não consegue atender a um grande número de alunos
-- Não encontrar plataformas gratuitas
-- Dificuldade de montar material
-
-#### ***Necessidades:***
-
-- Facilidade de organização e coleta de material
-- Visualização das dificuldades e evolução dos alunos
 
