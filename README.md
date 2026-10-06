@@ -6,7 +6,6 @@ O grupo listado abaixo será responsável pelo desenvolvimento e pela documenta�
 
 - [Caio Groff](https://github.com/caiogroff-droid)
 - Ísis A. Logullo
-- Leonardo
 - Rodrigo Lira
 - [Yago H. Pereira](https://github.com/yagohp)
 
